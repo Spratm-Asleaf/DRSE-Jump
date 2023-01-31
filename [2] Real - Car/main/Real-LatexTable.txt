@@ -1,0 +1,8 @@
+Scenario: Real (Car)
+IMM-N  & 2.30 & 2.24e-05 & IMM-B  & 2.26 & 2.83e-05 \\
+\hline
+IMM-M  & 2.02 & 5.76e-05 & IMM-C  & 1.72 & 2.31e-05 \\
+\hline
+IMM-RS & 2.30 & 8.40e-05 & DRIMM  & 2.30 & 4.97e-05 \\
+\hline
+IMM-R  & 2.29 & 2.35e-05 &        &      &      \\

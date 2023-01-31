@@ -1,0 +1,8 @@
+Scenario: Real (Drone)
+IMM-N  & 0.99 & 4.77e-05 & IMM-B  & 1.06 & 6.22e-05 \\
+\hline
+IMM-M  & 1.00 & 9.85e-05 & IMM-C  & 1.90 & 5.04e-05 \\
+\hline
+IMM-RS & 0.99 & 1.61e-04 & DRIMM  & 0.86 & 1.16e-03 \\
+\hline
+IMM-R  & 0.89 & 5.96e-05 &        &      &      \\
