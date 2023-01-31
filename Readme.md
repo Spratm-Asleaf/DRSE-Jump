@@ -20,7 +20,11 @@ From the Institute of Data Science, National University of Singapore
    
 ***Codes***
 
-[Avaiable soon after formal acceptance](#).
+- The folder "[1] Simulation" contains all the source data and codes for the simulated target tracking example.
+
+- The folder "[2] Real - Car" contains all the source data and codes for the real-world target tracking example of a car.
+
+- The folder "[3] Real - Drone" contains all the source data and codes for the real-world target tracking example of a drone.
     
 ***See Also***
 
