@@ -15,6 +15,7 @@ clear all;
 close all;
 
 Data = importdata('Data.txt', '\t', 1);         % this is part of the data starting from 10s
+                                                % use "Data (Speed-12).txt" instead if the drone's flying speed is 12m/s
 EpisodeLength = length(Data.data(:,1));
 
 %% Plot RTK Trajectory (Real Trajectory)
