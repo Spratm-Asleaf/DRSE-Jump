@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Distributionally Robust State Estimation for Jump Linear Systems**
 
-Under Submission
+Published in the IEEE Transactions on Signal Processing
    
 By Shixiong Wang
 
