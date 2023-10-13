@@ -121,13 +121,13 @@ function [x_hat, mu_hat] = DRIMM(Algo, F, G, H, Q, R, Pi, Y, a, x_hat0, P0, mu_h
 end
     
 function mu = RobustifyOverMu(muBar, X, P)
-% This function implements Algorithm 3 in the online supplementary materials.
+% This function implements Algorithm 2 in the online supplementary materials.
 %
 % We are required to solve a nonlinear root-finding problem.
 % Readers can solve the associated nonlinear root-finding problem.
 %
 % However, below is another trick to walk it around.
-% The basic idea is to solve (30) but the objective is replaced with (23)
+% The basic idea is to solve (26) but the objective is replaced with (19)
 % We iterate:
 % (1) Fix "mu1" to find weighted mean, and maximize over "mu", i.e.,
 %           maximize sum_j {mu_j * [P_j + (x_j - mu1*x)(x_j - mu1*x)']}.
